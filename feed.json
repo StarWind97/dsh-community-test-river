@@ -1,11 +1,21 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T17:22:59.372Z",
+  "generatedAt": "2026-10-30T18:59:55.857Z",
   "generator": "dsh-github-community/0.3.0-rc.4",
   "owner": "StarWind97",
   "repo": "dsh-community-test-river",
   "branch": "main",
   "posts": [
+    {
+      "id": "01M672XMTHAV2B6ASGX8NPVNV3",
+      "title": "河畔的网页图文与恢复测试",
+      "path": "posts/2026-10-30-河畔的网页图文与恢复测试-01M672XMTHAV2B6ASGX8NPVNV3.md",
+      "url": "https://github.com/StarWind97/dsh-community-test-river/blob/main/posts/2026-10-30-%E6%B2%B3%E7%95%94%E7%9A%84%E7%BD%91%E9%A1%B5%E5%9B%BE%E6%96%87%E4%B8%8E%E6%81%A2%E5%A4%8D%E6%B5%8B%E8%AF%95-01M672XMTHAV2B6ASGX8NPVNV3.md",
+      "publishedAt": "2026-10-30T18:59:55.857Z",
+      "updatedAt": null,
+      "tags": [],
+      "excerpt": "这是一篇普通测试帖，用来验证发送结果丢失后，重新打开页面仍能核对原来的发布。 项目链接"
+    },
     {
       "id": "01M66XC4NCXRJS6HJ3KS8S3Y8R",
       "title": "河畔的第一条图文：记录一个绿色下午",
